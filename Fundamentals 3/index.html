@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+    </head>
+    <body>
+        <script>
+            function add7(toNumber) {
+                console.log(toNumber + 7);
+            }
+
+            add7(3);
+
+            function multiply(a, b) {
+                console.log(a * b);
+            }
+
+            multiply(2, 8);
+
+            function capitalize(word) {
+                const capitalised = word[0].toUpperCase() + word.slice(1).toLowerCase();
+                console.log(capitalised);
+            }
+
+            capitalize("hElLO");
+
+            function lastLetter(fromString) {
+                console.log(fromString.slice(-1));
+            }
+
+            lastLetter("abcd");
+        </script>
+    </body>
+</html>
