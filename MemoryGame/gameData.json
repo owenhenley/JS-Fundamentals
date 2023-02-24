@@ -1,0 +1,50 @@
+[
+    {
+        "name": "fries",
+        "image": "./images/fries.png"
+    },
+    {
+        "name": "cheeseburger",
+        "image": "./images/cheeseburger.png"
+    },
+    {
+        "name": "hotdog",
+        "image": "./images/hotdog.png"
+    },
+    {
+        "name": "ice-cream",
+        "image": "./images/ice-cream.png"
+    },
+    {
+        "name": "milkshake",
+        "image": "./images/milkshake.png"
+    },
+    {
+        "name": "pizza",
+        "image": "./images/pizza.png"
+    },
+    {
+        "name": "fries",
+        "image": "./images/fries.png"
+    },
+    {
+        "name": "cheeseburger",
+        "image": "./images/cheeseburger.png"
+    },
+    {
+        "name": "hotdog",
+        "image": "./images/hotdog.png"
+    },
+    {
+        "name": "ice-cream",
+        "image": "./images/ice-cream.png"
+    },
+    {
+        "name": "milkshake",
+        "image": "./images/milkshake.png"
+    },
+    {
+        "name": "pizza",
+        "image": "./images/pizza.png"
+    }
+]
