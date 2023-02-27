@@ -1,0 +1,30 @@
+body {
+    margin-left: 24px;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 616px;
+    height: 616px;
+    gap: 2px;
+}
+
+.square {
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: black;
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+}
+
+.mole {
+    background-image: url("mole.jpg");
+    background-size: cover;
+}
+
+button {
+    padding: 10px;
+    margin-block: 24px;
+}
